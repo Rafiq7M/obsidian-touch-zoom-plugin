@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-touch-zoom-plugin",
+    "name": "Touch Zoom Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.9.12",
+    "description": "This plugin allows zooming in and out of the note content using a two-finger pinch gesture on a touchpad or touch screen.",
+    "author": "Rafiq Al-Mohammady",
+    "authorUrl": "https://github.com/Rafiq7M/obsidian-touch-zoom-plugin",
+    "isDesktopOnly": true
+  }
+  
